@@ -1,0 +1,13 @@
+[
+    {
+        "Id": 1,
+        "Title" : "Fire",
+        "Statu" : "Open"
+        
+    },
+    {
+        "Id": 2,
+        "Name" : "Explosion",
+        "Statu" : "Close"
+    }
+]
