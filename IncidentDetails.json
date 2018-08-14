@@ -1,8 +1,16 @@
 [
   {
     "Id": 1,
+    "BuildingId": 1,
     "Assignedto": "Raouf",
     "Description": "dfiudhfkn",
+    "Url": "https://i.imgur.com/XrYQIEp.jpg"
+  },
+   {
+    "Id": 2,
+    "BuildingId": 2,
+    "Assignedto": "Ali",
+    "Description": "ufdsfjd",
     "Url": "https://i.imgur.com/XrYQIEp.jpg"
   }
 ]
