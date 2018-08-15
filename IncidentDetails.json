@@ -1,16 +1,18 @@
 [
   {
-    "Id": 1,
+    "IncidentId": 1,
     "BuildingId": 1,
     "Assignedto": "Raouf",
     "Description": "dfiudhfkn",
+    "St": "Open",
     "Url": "https://i.imgur.com/XrYQIEp.jpg"
   },
    {
-    "Id": 2,
+    "IncidentId": 2,
     "BuildingId": 2,
     "Assignedto": "Ali",
     "Description": "ufdsfjd",
+     "St": "Open",
     "Url": "https://i.imgur.com/XrYQIEp.jpg"
   }
 ]
