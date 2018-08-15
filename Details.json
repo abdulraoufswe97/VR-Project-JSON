@@ -2,13 +2,11 @@
   {
     "IncidentId": 1,
     "BuildingId": 1,
-    "Name": "Fire",
-    "St": "Open"
+    "Name": "Fire"
   },
   {
     "IncidentId" : 2,
     "BuildingId": 2,
-    "Name": "Fire2",
-    "St": "Closed"
+    "Name": "Fire2"
   }
 ]
