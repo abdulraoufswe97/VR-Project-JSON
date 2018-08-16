@@ -5,7 +5,8 @@
     "Assignedto": "Raouf",
     "Description": "dfiudhfkn",
     "St": "Open",
-    "Url": "https://i.imgur.com/XrYQIEp.jpg"
+    "Url": "https://i.imgur.com/XrYQIEp.jpg",
+    "VideoUrl": "https://youtu.be/p5XjhmIvBLc"
   },
    {
     "IncidentId": 2,
@@ -13,6 +14,7 @@
     "Assignedto": "Ali",
     "Description": "ufdsfjd",
      "St": "Open",
-    "Url": "https://i.imgur.com/XrYQIEp.jpg"
+    "Url": "https://i.imgur.com/XrYQIEp.jpg",
+     "VideoUrl": "https://youtu.be/p5XjhmIvBLc"
   }
 ]
