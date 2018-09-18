@@ -1,0 +1,26 @@
+[
+    {
+        "FloorId": 1,
+        "BuildingID": 1
+    },
+    {
+        "FloorId": 2,
+        "BuildingID": 1
+    },
+    {
+        "FloorId": 3,
+        "BuildingID": 1
+    },
+    {
+        "FloorId": 1,
+        "BuildingID": 2
+    },
+    {
+        "FloorId": 2,
+        "BuildingID": 2
+    },
+    {
+        "FloorId": 3,
+        "BuildingID": 2
+    }
+]
