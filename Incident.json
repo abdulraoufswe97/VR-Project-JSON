@@ -1,0 +1,46 @@
+[
+  {
+    "IncidentId": 1,
+    "BuildingId": 1,
+    "FloorId": 1,
+    "Name": "Fire",
+    "State": "Open"
+  },
+  {
+    "IncidentId": 2,
+    "BuildingId": 1,
+    "FloorId": 2,
+    "Name": "Explosion",
+    "State": "Closed"
+  },
+   {
+    "IncidentId": 3,
+    "BuildingId": 1,
+    "FloorId": 3,
+    "Name": "Accident",
+    "State": "On going" 
+  },
+  {
+    "IncidentId" : 4,
+    "BuildingId": 2,
+    "FloorId": 1,
+    "Name": "Death",
+    "State": "Open"
+  },
+  ,
+  {
+    "IncidentId" : 5,
+    "BuildingId": 2,
+    "FloorId": 2,
+    "Name": "Security Breach",
+    "State": "Closed"
+  }
+  ,
+  {
+    "IncidentId" : 6,
+    "BuildingId": 2,
+    "FloorId": 3,
+    "Name": "Short Circuit",
+    "State": "On going"
+  }
+]
