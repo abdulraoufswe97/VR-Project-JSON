@@ -4,41 +4,47 @@
     "BuildingId": 1,
     "FloorId": 1,
     "Name": "Fire",
-    "State": "Open"
+    "State": "Open",
+    "Url": "https://i.imgur.com/XrYQIEp.jpg"
   },
   {
     "IncidentId": 2,
     "BuildingId": 1,
     "FloorId": 2,
     "Name": "Explosion",
-    "State": "Closed"
+    "State": "Closed",
+    "Url": "https://i.imgur.com/XrYQIEp.jpg"
   },
    {
     "IncidentId": 3,
     "BuildingId": 1,
     "FloorId": 3,
     "Name": "Accident",
-    "State": "On going" 
+    "State": "On going",
+     "Url": "https://i.imgur.com/XrYQIEp.jpg"
   },
   {
     "IncidentId" : 4,
     "BuildingId": 2,
     "FloorId": 1,
     "Name": "Death",
-    "State": "Open"
+    "State": "Open",
+    "Url": "https://i.imgur.com/XrYQIEp.jpg"
   },
   {
     "IncidentId" : 5,
     "BuildingId": 2,
     "FloorId": 2,
     "Name": "Security Breach",
-    "State": "Closed"
+    "State": "Closed",
+    "Url": "https://i.imgur.com/XrYQIEp.jpg"
   },
   {
     "IncidentId" : 6,
     "BuildingId": 2,
     "FloorId": 3,
     "Name": "Short Circuit",
-    "State": "On going"
+    "State": "On going",
+    "Url": "https://i.imgur.com/XrYQIEp.jpg"
   }
 ]
