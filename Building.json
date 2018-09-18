@@ -1,11 +1,15 @@
 [
     {
         "Id": 1,
+        "AssetID": 1,  
+        "AssetName": "Kuala Lumpur",
         "Name" : "Menara Exxon Mobil",
         "ImageUrl": "https://i.imgur.com/stnjxwS.jpg"
     },
     {
         "Id": 2,
+        "AssetID": 1,  
+        "AssetName": "Kuala Lumpur",
         "Name" : "KLCC Tower",
         "ImageUrl": "https://i.imgur.com/VXbQhGQ.jpg"
     }
