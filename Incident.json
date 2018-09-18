@@ -27,15 +27,13 @@
     "Name": "Death",
     "State": "Open"
   },
-  ,
   {
     "IncidentId" : 5,
     "BuildingId": 2,
     "FloorId": 2,
     "Name": "Security Breach",
     "State": "Closed"
-  }
-  ,
+  },
   {
     "IncidentId" : 6,
     "BuildingId": 2,
