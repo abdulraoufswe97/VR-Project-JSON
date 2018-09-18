@@ -5,7 +5,7 @@
     "FloorId": 1,
     "Name": "Fire",
     "State": "Open",
-    "Url": "https://i.imgur.com/XrYQIEp.jpg"
+    "AreaImg": "https://i.imgur.com/XrYQIEp.jpg"
   },
   {
     "IncidentId": 2,
@@ -13,7 +13,7 @@
     "FloorId": 2,
     "Name": "Explosion",
     "State": "Closed",
-    "Url": "https://i.imgur.com/XrYQIEp.jpg"
+    "AreaImg": "https://i.imgur.com/XrYQIEp.jpg"
   },
    {
     "IncidentId": 3,
@@ -21,7 +21,7 @@
     "FloorId": 3,
     "Name": "Accident",
     "State": "On going",
-     "Url": "https://i.imgur.com/XrYQIEp.jpg"
+     "AreaImg": "https://i.imgur.com/XrYQIEp.jpg"
   },
   {
     "IncidentId" : 4,
@@ -29,7 +29,7 @@
     "FloorId": 1,
     "Name": "Death",
     "State": "Open",
-    "Url": "https://i.imgur.com/XrYQIEp.jpg"
+    "AreaImg": "https://i.imgur.com/XrYQIEp.jpg"
   },
   {
     "IncidentId" : 5,
@@ -37,7 +37,7 @@
     "FloorId": 2,
     "Name": "Security Breach",
     "State": "Closed",
-    "Url": "https://i.imgur.com/XrYQIEp.jpg"
+    "AreaImg": "https://i.imgur.com/XrYQIEp.jpg"
   },
   {
     "IncidentId" : 6,
@@ -45,6 +45,6 @@
     "FloorId": 3,
     "Name": "Short Circuit",
     "State": "On going",
-    "Url": "https://i.imgur.com/XrYQIEp.jpg"
+    "AreaImg": "https://i.imgur.com/XrYQIEp.jpg"
   }
 ]
