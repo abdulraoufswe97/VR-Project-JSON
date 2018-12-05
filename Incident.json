@@ -69,19 +69,5 @@
     "IncidentRating" : "R5",
     "IncidentType" : "Security Breach",
     "AssignedTo" : "Ama"
-  },
-  {
-    "IncidentId" : 6,
-    "BuildingId": 2,
-    "FloorId": 3,
-    "Name": "Short Circuit",
-    "State": "On going",
-    "AreaImg": "https://i.imgur.com/XrYQIEp.jpg",
-    "Date" : "2013-02-11",
-    "DirectCause" : "Illness",
-    "SubDirectCause" : "Sudden Collapse", 
-    "IncidentRating" : "R3",
-    "IncidentType" : " Asset Damage or Loss",
-    "AssignedTo" : "Raouf"
   }
 ]
