@@ -69,5 +69,19 @@
     "IncidentRating" : "R5",
     "IncidentType" : "Security Breach",
     "AssignedTo" : "Ama"
+  },
+  {
+    "IncidentId" : 6,
+    "BuildingId": 2,
+    "FloorId": 3,
+    "Name": "Security Breach",
+    "State": "Closed",
+    "AreaImg": "https://i.imgur.com/XrYQIEp.jpg",
+    "Date" : "2018-06-07",
+    "DirectCause" : "Fall",
+    "SubDirectCause" : "Fall from Height;", 
+    "IncidentRating" : "R5",
+    "IncidentType" : "Security Breach",
+    "AssignedTo" : "Ama"
   }
 ]
