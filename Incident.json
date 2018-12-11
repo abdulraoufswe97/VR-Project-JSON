@@ -3,78 +3,78 @@
     "IncidentId": 1,
     "BuildingId": 1,
     "FloorId": 1,
-    "RefID" : "UAUC/SKO/2018/31376",
+    "RefID" : "INC/SKO/2018/31376",
     "Name": "Cable Tangled",
     "State": "Open",
     "Date" : "2018-10-17",
-    "HazardCls" : "Unsafe Act",
+    "HazardCls" : "Cables falling down to the floor",
     "Location" : "Chill Area",
-    "Observation" : "Cables falling down to the floor",
-    "StopWork" : "No"
+    "Observation" : "Recordable",
+    "StopWork" : "Tier 1"
   },
   {
     "IncidentId": 2,
     "BuildingId": 1,
     "FloorId": 2,
-    "RefID" : "UAUC/SKO/2018/31376",
+    "RefID" : "INC/SKO/2018/31376",
     "Name": "Cable Tangled",
     "State": "Open",
     "Date" : "2018-10-17",
-    "HazardCls" : "Unsafe Act",
+    "HazardCls" : "Cables falling down to the floor",
     "Location" : "Chill Area",
-    "Observation" : "Cables falling down to the floor",
-    "StopWork" : "No"
+    "Observation" : "Recordable",
+    "StopWork" : "Tier 1"
   },
    {
     "IncidentId": 3,
     "BuildingId": 1,
     "FloorId": 3,
-     "RefID" : "UAUC/SKO/2018/31376",
+    "RefID" : "INC/SKO/2018/31376",
     "Name": "Cable Tangled",
     "State": "Open",
     "Date" : "2018-10-17",
-    "HazardCls" : "Unsafe Act",
+    "HazardCls" : "Cables falling down to the floor",
     "Location" : "Chill Area",
-    "Observation" : "Cables falling down to the floor",
-    "StopWork" : "No"
+    "Observation" : "Recordable",
+    "StopWork" : "Tier 1"
   },
   {
     "IncidentId" : 4,
     "BuildingId": 2,
     "FloorId": 1,
-    "RefID" : "UAUC/SKO/2018/31376",
+    "RefID" : "INC/SKO/2018/31376",
     "Name": "Cable Tangled",
     "State": "Open",
     "Date" : "2018-10-17",
-    "HazardCls" : "Unsafe Act",
+    "HazardCls" : "Cables falling down to the floor",
     "Location" : "Chill Area",
-    "Observation" : "Cables falling down to the floor",
-    "StopWork" : "No"
+    "Observation" : "Recordable",
+    "StopWork" : "Tier 1"
   },
   {
     "IncidentId" : 5,
     "BuildingId": 2,
     "FloorId": 2,
-    "RefID" : "UAUC/SKO/2018/31376",
+    "RefID" : "INC/SKO/2018/31376",
     "Name": "Cable Tangled",
     "State": "Open",
     "Date" : "2018-10-17",
-    "HazardCls" : "Unsafe Act",
+    "HazardCls" : "Cables falling down to the floor",
     "Location" : "Chill Area",
-    "Observation" : "Cables falling down to the floor",
-    "StopWork" : "No"
+    "Observation" : "Recordable",
+    "StopWork" : "Tier 1"
   },
   {
     "IncidentId" : 6,
     "BuildingId": 2,
     "FloorId": 3,
-    "RefID" : "UAUC/SKO/2018/31376",
+    "RefID" : "INC/SKO/2018/31376",
     "Name": "Cable Tangled",
     "State": "Open",
     "Date" : "2018-10-17",
-    "HazardCls" : "Unsafe Act",
+    "HazardCls" : "Cables falling down to the floor",
     "Location" : "Chill Area",
-    "Observation" : "Cables falling down to the floor",
-    "StopWork" : "No"
+    "Observation" : "Recordable",
+    "StopWork" : "Tier 1"
   }
 ]
